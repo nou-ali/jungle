@@ -51,8 +51,13 @@
         <% if current_user %>
   <span>Signed in<%= current_user.first_name %> | <%= link_to "Logout", '/logout' %></span>
 <% else %>
-  <div><%= link_to 'Login', '/login' %> | <%= link_to 'Signup', '/signup' %>  </div>
-<% end %>
+        </li>  
+        <li>
+          <%= link_to 'Login', '/login' %>
+        </li>
+        <li>
+          <%= link_to 'Signup', '/signup' %>
+          <% end %>
 </li>
       </ul>
     </div>
