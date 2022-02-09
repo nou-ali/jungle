@@ -2,6 +2,12 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+## Screenshots
+
+!["scheduler-img1.png"](https://github.com/nou-ali/scheduler/blob/master/docs/scheduler-img1.png)
+!["scheduler-img2.png"](https://github.com/nou-ali/scheduler/blob/master/docs/scheduler-img2.png)
+!["scheduler-img3.png"](https://github.com/nou-ali/scheduler/blob/master/docs/scheduler-img3.png)
+
 ## Additional Steps for Apple M1 Machines
 
 1. Make sure that you are runnning Ruby 2.6.6 (`ruby -v`)
@@ -31,3 +37,4 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
