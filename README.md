@@ -4,9 +4,9 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Screenshots
 
-!["scheduler-img1.png"](https://github.com/nou-ali/scheduler/blob/master/docs/scheduler-img1.png)
-!["scheduler-img2.png"](https://github.com/nou-ali/scheduler/blob/master/docs/scheduler-img2.png)
-!["scheduler-img3.png"](https://github.com/nou-ali/scheduler/blob/master/docs/scheduler-img3.png)
+!["homepage.png"](https://github.com/nou-ali/jungle/blob/master/docs/homepage.png)
+!["product.png"](https://github.com/nou-ali/jungle/blob/master/docs/product.png)
+!["cart.png"](https://github.com/nou-ali/jungle/blob/master/docs/cart.png)
 
 ## Additional Steps for Apple M1 Machines
 
